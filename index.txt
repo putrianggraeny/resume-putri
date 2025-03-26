@@ -1,0 +1,213 @@
+vCard - Personal Portfolio
+
+# sidebar
+
+alt = Putri Anggraeni Yane
+Putri Anggraeni Yane
+IT Programmer
+
+Show Contacts
+
+Email
+anggraenyyn@gmail.com
+
+Phone
++62 822 8644 6030
+
+Birthday
+July 10, 2003
+
+Address
+Padang, Sumatera Barat
+
+# navbar
+
+About
+Resume
+Portfolio
+Certificates
+
+# about
+
+About me
+
+I am a fresh graduate from Politeknik Negeri Padang, majoring in Information Technology with a concentration in Informatics Management. Throughout my academic journey, I dedicated significant time to developing skills in Programming and Web development.
+
+I love learning new things and enjoy taking on challenges to improve my programming skills. I am able to work in a team and work under pressure in specific situations.
+
+
+## service
+
+Skills
+
+alt = design icon
+Web design
+The most modern and high-quality design made at a professional level.
+
+alt = Web development icon
+Web development
+High-quality development of sites at the professional level.
+
+alt = mobile app icon
+Mobile app
+Professional development of applications for iOS and Android.
+
+alt = camera icon
+API integration
+I make high-quality photos of any category at a professional level.
+
+
+## testimonials
+
+Tools
+
+alt = Daniel lewis
+Visual Studio Code
+Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+
+alt = Jessica miller
+MySQL
+Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+
+alt = Emily evans
+DBeaver
+Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+
+alt = Henry william
+Postman
+Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+
+alt = Henry william
+Microsoft Office
+Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+
+
+# resume
+
+Resume
+
+Education
+
+Politeknik Negeri Padang
+2021 — 2024
+Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+
+SMAN 1 Airpura
+2018 — 2021
+Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos.
+
+Experience
+
+Web Developer Intern
+FEB 2024 — JUN 2024
+Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas molestias exceptur.
+
+
+My skills
+
+Web design (Figma)
+40%
+PHP Laravel
+90%
+HTML CSS JS
+80%
+Rest API Java Springboot
+50%
+Database Management
+70%
+Microsoft Office
+90%
+
+
+# portfolio
+
+Portfolio
+
+All
+Web design
+Applications
+Web development
+
+Select category
+All
+Web design
+Applications
+Web development
+
+alt = finance
+Finance
+Web development
+
+alt = orizon
+Orizon
+Web development
+
+alt = fundo
+Fundo
+Web design
+
+alt = brawlhalla
+Brawlhalla
+Applications
+
+alt = dsm.
+DSM.
+Web design
+
+alt = metaspark
+MetaSpark
+Web design
+
+alt = summary
+Summary
+Web development
+
+alt = task manager
+Task Manager
+Applications
+
+alt = arrival
+Arrival
+Web development
+
+
+
+# certificates
+
+Certificates
+
+alt = Database Programming with PL/SQ
+Oracle Academy
+Jan 12, 2023
+Database Programming with PL/SQ
+Award of Course Completion Database Programming with PL/SQ
+
+alt = Best fonts every designer
+Design
+Fab 23, 2022
+Best fonts every designer
+Sed ut perspiciatis, nam libero tempore, cum soluta nobis est eligendi.
+
+alt = Design digest #80
+Design
+Fab 23, 2022
+Design digest #80
+Excepteur sint occaecat cupidatat no proident, quis nostrum exercitationem ullam corporis suscipit.
+
+alt = UI interactions of the week
+Design
+Fab 23, 2022
+UI interactions of the week
+Enim ad minim veniam, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi.
+
+alt = The forgotten art of spacing
+Design
+Fab 23, 2022
+The Forgotten Art Of Spacing
+Maxime placeat, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+alt = Design digest #79
+Design
+Fab 23, 2022
+Design Digest #79
+Optio cumque nihil impedit uo minus quod maxime placeat, velit esse cillum.
